@@ -1,5 +1,11 @@
+import Hero from "../components/hero/Hero";
+
 const Shop = () => {
-  return <div>Shop</div>;
+  return (
+    <div>
+      <Hero />
+    </div>
+  );
 };
 
 export default Shop;

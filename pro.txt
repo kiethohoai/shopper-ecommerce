@@ -3,3 +3,4 @@
 3. Hero
 4. Item.jsx (UI)
 5. Popular.jsx (UI)
+6. Offer.jsx (UI)

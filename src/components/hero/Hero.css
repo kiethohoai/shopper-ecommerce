@@ -51,6 +51,10 @@
   font-weight: 500;
 }
 
+.hero-latest-btn:hover {
+  background: #e63c3c;
+}
+
 .hero-right {
   flex: 1;
   display: flex;

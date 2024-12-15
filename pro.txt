@@ -6,3 +6,4 @@
 6. Offer.jsx (UI)
 7. NewCollections.jsx (UI)
 8. NewLetters (UI)
+9. Footer (UI)

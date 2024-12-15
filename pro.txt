@@ -2,3 +2,4 @@
 2. Setup All Routes & Components
 3. Hero
 4. Item.jsx (UI)
+5. Popular.jsx (UI)

@@ -1,1 +1,2 @@
 1. Base project, navbar component
+2. Setup All Routes & Components

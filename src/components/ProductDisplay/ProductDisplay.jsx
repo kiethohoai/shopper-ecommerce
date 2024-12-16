@@ -1,8 +1,11 @@
 import './ProductDisplay.css';
 import star_icon from '../assets/star_icon.png';
 import star_dull_icon from '../assets/star_dull_icon.png';
+import useShopContext from '../../contexts/useShopContext';
 
 const ProductDisplay = ({ product }) => {
+  const { addToCart } = useShopContext();
+
   return (
     <div className="productdisplay">
       {/* Left */}
@@ -62,7 +65,7 @@ const ProductDisplay = ({ product }) => {
           </div>
         </div>
 
-        <button>ADD TO CART</button>
+        <button onClick={() => addToCart(product.id)}>ADD TO CART</button>
         <p className="productdisplay-right-category">
           <span>Category : </span>Women, T-Shirt, Crop Top
         </p>

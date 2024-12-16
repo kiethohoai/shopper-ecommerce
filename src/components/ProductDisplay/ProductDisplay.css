@@ -101,6 +101,10 @@
   cursor: pointer;
 }
 
+.productdisplay-right button:hover {
+  background: #f23e3e;
+}
+
 .productdisplay-right-category {
   margin-top: 5px;
 }

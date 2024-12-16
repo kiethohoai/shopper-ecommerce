@@ -11,3 +11,4 @@
 11. ShopCategory.jsx (UI)
 12. LoginSignUp UI
 13. Fix Fonts
+14. Product Page & Product Detail Page

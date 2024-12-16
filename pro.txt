@@ -8,3 +8,4 @@
 8. NewLetters (UI)
 9. Footer (UI)
 10. ShopContext (useShopContext,ShopContextProvider)
+11. ShopCategory.jsx (UI)

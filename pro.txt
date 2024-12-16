@@ -13,3 +13,4 @@
 13. Fix Fonts
 14. Product Page & Product Detail Page
 15. DescriptionBox UI
+16. RelatedProducts

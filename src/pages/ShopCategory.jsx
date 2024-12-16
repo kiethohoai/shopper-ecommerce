@@ -46,8 +46,3 @@ const ShopCategory = ({ category, banner }) => {
 };
 
 export default ShopCategory;
-
-/* 
-
-
-*/

@@ -9,3 +9,4 @@
 9. Footer (UI)
 10. ShopContext (useShopContext,ShopContextProvider)
 11. ShopCategory.jsx (UI)
+12. LoginSignUp UI

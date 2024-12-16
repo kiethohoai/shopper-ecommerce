@@ -10,3 +10,4 @@
 10. ShopContext (useShopContext,ShopContextProvider)
 11. ShopCategory.jsx (UI)
 12. LoginSignUp UI
+13. Fix Fonts

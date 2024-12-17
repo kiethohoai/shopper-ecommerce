@@ -65,7 +65,14 @@ const ProductDisplay = ({ product }) => {
           </div>
         </div>
 
-        <button onClick={() => addToCart(product.id)}>ADD TO CART</button>
+        <button
+          onClick={(e) => {
+            e.preventDefault();
+            addToCart(product.id);
+          }}
+        >
+          ADD TO CART
+        </button>
         <p className="productdisplay-right-category">
           <span>Category : </span>Women, T-Shirt, Crop Top
         </p>

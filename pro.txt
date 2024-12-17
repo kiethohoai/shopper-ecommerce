@@ -16,3 +16,4 @@
 16. RelatedProducts
 17. Add To Card (add, remove) in ShopContext
 18. Cart.jsx UI
+19. Total Cart Prices & Total Cart Items (Logic)
